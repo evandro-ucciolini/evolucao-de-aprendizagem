@@ -32,6 +32,7 @@
 
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 
+- Tive a compreensão de algumas técnicas que podem ser aplicadas no currículo.
 - Aprendi sobre expectativas e realidades no desenvolvimento profissional na área de tecnologia.
 - Aprendi sobre linguagens de programação populares em diferentes épocas.
 - Aprendi a finalidade do figma e penpot tendo a experiência de uso do figma na realização do desafio. Ferramenta clara e detalhista, essencial para criação de página em relação a modelos de layout.
